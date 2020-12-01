@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 master final commit
+from dev changed
+continue
